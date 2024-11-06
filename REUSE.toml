@@ -1,0 +1,12 @@
+# REUSE Konfigurationsdatei
+
+version = 3
+
+[[files]]
+path = ".gitignore"
+license = "GPL-3.0-or-later"
+
+[[files]]
+path = ".idea"
+license = "GPL-3.0-or-later"
+recursive = true

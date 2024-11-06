@@ -1,3 +1,9 @@
+/*
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ *
+ * Copyright (C) 2024 Alina Moringen
+ */
+
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,3 +1,9 @@
+/*
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ *
+ * Copyright (C) 2024 Alina Moringen
+ */
+
 public class Stack {
 	
 	private int maxSize = 0;
